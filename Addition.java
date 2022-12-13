@@ -6,6 +6,6 @@ class Addition
         x=10;
         y=29;
         z=x+y;
-        System.out.println(z);
+        System.out.println("Addition is:"+z);
     }
 }
